@@ -32,6 +32,18 @@
             "Nombre producto": "ROSA LOLA",
             "posicion_arancelaria": "601200000",
 	    "cuadro_insumo_producto": "0001",
+            "cantidad": 120.0000,
+	    "unidad_compra": "U",
+            "valor_unitario": 5.0000,
+            "subtotal": 2500.00,
+            "tmInsumos": null
+        },
+	{
+	    "item": 2,	    
+	    "codigo_producto": "639763",
+            "Nombre producto": "ROSA LOLA",
+            "posicion_arancelaria": "601200000",
+	    "cuadro_insumo_producto": "0001",
             "cantidad": 12000.0000,
 	    "unidad_compra": "U",
             "valor_unitario": 5.0000,
