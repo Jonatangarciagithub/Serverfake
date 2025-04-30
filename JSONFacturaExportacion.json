@@ -1,4 +1,5 @@
-{
+[
+	{
 	"codigo_auxiliar": "CDCH-26",
 	"factura_exportacion": "CDCH-26",
 	"fecha_factura": "2024-11-26T14:52:41.947",
@@ -51,3 +52,4 @@
         }
 	]
 }
+]
